@@ -20,8 +20,6 @@ The Power BI dashboard provides:
 - Trend analysis using charts and visuals
 - Interactive filters for better insights
 
-### 🔍 Dashboard Preview
-![Dashboard Preview](Products_sales_image.png)
 
 📌 **Note:**  
 The `.pbix` file can be downloaded and opened using **Power BI Desktop**.
