@@ -14,13 +14,18 @@ These queries form the foundation for further analysis and visualization in Powe
 
 ## 📊 Power BI Dashboard
 The Power BI dashboard provides:
+
 - KPIs for total sales, revenue, and quantity sold
 - Product and category-wise sales comparison
 - Trend analysis using charts and visuals
 - Interactive filters for better insights
 
 ### 🔍 Dashboard Preview
-![Dashboard Preview](Images/dashboard-preview.webp)
+![Dashboard Preview](Products_sales_image.png)
+
+📌 **Note:**  
+The `.pbix` file can be downloaded and opened using **Power BI Desktop**.
+
 
 
 ---
