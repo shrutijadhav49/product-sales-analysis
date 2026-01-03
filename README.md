@@ -22,8 +22,6 @@ The Power BI dashboard provides:
 ### 🔍 Dashboard Preview
 ![Dashboard Preview](Images/dashboard-preview.webp)
 
-> 📌 Note:  
-> The `.pbix` file can be downloaded and opened using **Power BI Desktop**.
 
 ---
 
